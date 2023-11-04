@@ -8,7 +8,7 @@ import { Mesh } from "three";
 const config = require("../../next.config");
 
 function MeshComponent() {
-  const fileUrl = `'${config.basePath}/shiba/scene.gltf'`;
+  const fileUrl = `"${config.basePath}/shiba/scene.gltf"`;
   const mesh = useRef<Mesh>(null!);
   const gltf = useLoader(GLTFLoader, fileUrl);
 
