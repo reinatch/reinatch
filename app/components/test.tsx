@@ -5,9 +5,10 @@ import { Canvas, useFrame, useLoader } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { Mesh } from "three";
+const config = require("../../next.config");
 
 function MeshComponent() {
-  const fileUrl = "/shiba/scene.gltf";
+  const fileUrl = `"${config.basePath}/shiba/scene.gltf"`;
   const mesh = useRef<Mesh>(null!);
   const gltf = useLoader(GLTFLoader, fileUrl);
 
