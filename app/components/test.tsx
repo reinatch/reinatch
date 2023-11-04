@@ -11,7 +11,6 @@ function MeshComponent() {
   const fileUrl = "/shiba/scene.glb";
   const mesh = useRef<Mesh>(null!);
   const gltf = useLoader(GLTFLoader, fileUrl);
-
   useFrame(() => {
     mesh.current.rotation.y += 0.01;
   });
