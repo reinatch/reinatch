@@ -1,5 +1,5 @@
 import { OrbitControls } from "@react-three/drei";
-import Woman from "./Woman";
+// import Woman from "./Woman";
 const Experience = () => {
   return (
     <>
@@ -11,9 +11,7 @@ const Experience = () => {
         shadow-mapSize-width={1024}
         shadow-mapSize-height={1024}
       />
-      <group position={[0, -1, 0]}>
-        <Woman />
-      </group>
+      <group position={[0, -1, 0]}>{/* <Woman /> */}</group>
       <mesh
         rotation={[-0.5 * Math.PI, 0, 0]}
         position={[0, -1, 0]}
