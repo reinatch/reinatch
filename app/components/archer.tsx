@@ -3,12 +3,13 @@ import { useGLTF, useAnimations } from "@react-three/drei";
 import { AnimationAction, AnimationMixer, Group } from "three";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { useLoader } from "@react-three/fiber";
+const config = require("../../next.config");
 interface ModelProps {
   //   action: string;
 }
 export default function Model({}: ModelProps): JSX.Element {
   const group: RefObject<Group> = useRef<Group>(null);
-  const gltf = useLoader(GLTFLoader, "/archer-animation.glb");
+  const gltf = useLoader(GLTFLoader, `${config.basePath}/archer-animation.glb`);
   const { actions } = useAnimations(gltf.animations, group);
   const actionss = [
     "Run Forward",
