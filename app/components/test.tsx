@@ -14,15 +14,15 @@ import { Fisheye } from "../Fisheye";
 const config = require("../../next.config");
 import Archer from "./archer";
 function MeshComponent() {
-  const fileUrl = `${config.basePath}/arch.glb`;
-  const mesh = useRef<Mesh>(null!);
-  const gltf = useLoader(GLTFLoader, fileUrl);
+  // const fileUrl = `${config.basePath}/arch.glb`;
+  // const mesh = useRef<Mesh>(null!);
+  // const gltf = useLoader(GLTFLoader, fileUrl);
   useFrame(() => {
     // mesh.current.rotation.y += 0.01;
   });
 
   const [active, setActive] = useState(false);
-  console.log(gltf);
+  // console.log(gltf);
   const actions = [
     "Run Forward",
     "Death",
