@@ -2,6 +2,8 @@
 
 I'm a web developer and creative technologist studying software engineering at 42 Porto. I build websites and interactive digital experiences, combining web development with animation and 3D work.
 
+Based in Porto, Portugal.
+
 [![Explore my portfolio](https://img.shields.io/badge/Explore_my_portfolio-6750A4?style=for-the-badge)](https://reinatch.website)
 
 ## Tools and interests
