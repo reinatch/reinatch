@@ -6,7 +6,7 @@ I'm a web developer and creative technologist studying software engineering at 4
 
 ## Tools and interests
 
-My tools and interests span React, Next.js, TypeScript, WordPress, Python, Django, PostgreSQL, and SQL, alongside animation with GSAP and Three.js. I explore WebGL, GLSL shaders, and software architecture, and use Git for version control. My studies also include systems programming in C and C++. For 3D modeling, animation, and texturing, I work with Blender and Houdini.
+My tools and interests span React, Next.js, TypeScript, WordPress, Python, Django, PostgreSQL, and SQL, alongside animation with GSAP and Three.js. I explore WebGL, GLSL shaders, and software architecture, and use Git for version control. My studies also include systems programming in C and C++. My creative tools include Blender, Houdini, and Unreal Engine for 3D work and real-time experiences.
 
 ### Web and animation
 
@@ -32,6 +32,7 @@ My tools and interests span React, Next.js, TypeScript, WordPress, Python, Djang
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 I enjoy collaborating with designers and creative practitioners on websites where clear content and interactive details work together. Project examples and contact information are available on my portfolio.
