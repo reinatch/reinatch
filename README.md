@@ -24,10 +24,6 @@ My web work uses React, Next.js, TypeScript, WordPress, and animation libraries 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
 
-### Operating system
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=171717)
-
 I enjoy collaborating with designers and creative practitioners on websites where clear content and interactive details work together. Project examples and contact information are available on my portfolio.
 
 ## About this repository
