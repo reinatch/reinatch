@@ -25,4 +25,3 @@ My web work uses React, Next.js, TypeScript, WordPress, and animation libraries 
 ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
 
 I enjoy collaborating with designers and creative practitioners on websites where clear content and interactive details work together. Project examples and contact information are available on my portfolio.
-
