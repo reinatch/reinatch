@@ -5,6 +5,7 @@ I'm a web developer and creative technologist studying software engineering at 4
 Based in Porto, Portugal.
 
 [![Explore my portfolio](https://img.shields.io/badge/Explore_my_portfolio-6750A4?style=for-the-badge)](https://reinatch.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rei-rodrigues)
 
 ## Tools and interests
 
