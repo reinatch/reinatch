@@ -26,6 +26,3 @@ My web work uses React, Next.js, TypeScript, WordPress, and animation libraries 
 
 I enjoy collaborating with designers and creative practitioners on websites where clear content and interactive details work together. Project examples and contact information are available on my portfolio.
 
-## About this repository
-
-Alongside this profile README, this repository contains a React Three Fiber experiment with an animated archer and a fisheye scene. The experiment is separate from the portfolio linked above.
