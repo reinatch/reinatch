@@ -2,11 +2,11 @@
 
 I'm a web developer and creative technologist studying software engineering at 42 Porto. I build websites and interactive digital experiences, combining web development with animation and 3D work.
 
-[Explore my portfolio](https://reinatch.website)
+[![Explore my portfolio](https://img.shields.io/badge/Explore_my_portfolio-6750A4?style=for-the-badge)](https://reinatch.website)
 
 ## Tools and interests
 
-My tools and interests span React, Next.js, TypeScript, WordPress, Python, Django, PostgreSQL, and SQL, alongside animation with GSAP and Three.js. I explore WebGL, GLSL shaders, and software architecture, and use Git for version control. My studies also include systems programming in C and C++. My creative tools include Blender, Houdini, and Unreal Engine for 3D work and real-time experiences.
+My interests include interactive websites, real-time graphics, GLSL shaders, and software architecture. Alongside web development, I study systems programming in C and C++.
 
 ### Web and animation
 
@@ -26,13 +26,16 @@ My tools and interests span React, Next.js, TypeScript, WordPress, Python, Djang
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-### Systems and creative tools
+### Systems and development
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 3D and creative tools
+
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 I enjoy collaborating with designers and creative practitioners on websites where clear content and interactive details work together. Project examples and contact information are available on my portfolio.
