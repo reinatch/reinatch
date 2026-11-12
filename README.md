@@ -1,6 +1,6 @@
 # Hi, I'm Rei
 
-I'm a web developer and creative technologist studying software engineering at 42 Porto. I build websites and interactive digital experiences, combining web development with animation and 3D work.
+I'm a web developer and creative technologist in the final stage of my software engineering studies at 42 Porto. I build websites and interactive digital experiences, combining web development with animation and 3D work.
 
 Based in Porto, Portugal.
 
